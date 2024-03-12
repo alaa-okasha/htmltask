@@ -52,3 +52,16 @@ Footer
 FigCaption
 Section
 Article
+
+
+week 3 
+35-->37 
+assignment 1 :
+1. <input type="submit" >
+2. <h1>
+3. <h2></h2>
+4. <p></p>
+5.<html lang="en">
+6. 10 To 20
+7. <div tapindex="0">
+8. Accessible Rich Internet Applications
